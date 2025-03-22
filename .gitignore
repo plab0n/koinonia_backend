@@ -13,7 +13,6 @@
 
 # Build directories
 bin/
-pkg/
 
 # Dependency directory (if using Go modules, vendor is usually not required)
 vendor/
